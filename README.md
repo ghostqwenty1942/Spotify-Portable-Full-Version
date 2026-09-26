@@ -270,4 +270,4 @@ This repository serves as the official landing page for Spotify Portable. The so
 **Get the most recent version of Spotify Portable today!**
 
 ---
-**Last updated:** 2026-09-26 19:37:25 UTC
+**Last updated:** 2026-09-26 22:30:03 UTC
